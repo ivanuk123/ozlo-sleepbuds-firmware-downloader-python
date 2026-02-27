@@ -18,12 +18,6 @@ A Python implementation of the Ozlo firmware downloader with identical functiona
 
 ## Installation
 
-Navigate to the python directory:
-
-```bash
-cd python
-```
-
 ## Usage
 
 ### Basic usage (downloads index from default URL)
